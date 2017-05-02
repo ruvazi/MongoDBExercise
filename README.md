@@ -21,6 +21,8 @@ The MongoDB have been set up following these two instruktions in vagrant:
 
 The solution have been made with Java RESTfull orm frame work in backend and JavaScript frontend. the solution can be run if the mongodb have been installed and the javascript in "script.js" in this solution have been run on the db.
 
+There have been some problems with getting the data presentet in the frontend, it havent been fixed yet. 
+
 ## Answers:
 
 1. Amount of distinct users: 659178
