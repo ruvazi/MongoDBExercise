@@ -16,7 +16,7 @@ Your application can be written in the language of your choice. It must have a f
 
 ## Solution
 The MongoDB have been set up following these two instruktions in vagrant:
-- [link for exrcise](https://github.com/HelgeCPH/db_course_nosql/blob/master/lecture_notes/MongoDB%20Exercise.ipynb) 
+- [link for exercise](https://github.com/HelgeCPH/db_course_nosql/blob/master/lecture_notes/MongoDB%20Exercise.ipynb) 
 - [link for mongo intro](https://github.com/HelgeCPH/db_course_nosql/blob/master/lecture_notes/04-Intro%20to%20MongoDB.ipynb)
 
 The solution have been made with Java RESTfull orm frame work in backend and JavaScript frontend. the solution can be run if the mongodb have been installed and the javascript in "script.js" in this solution have been run on the db.
